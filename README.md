@@ -4,4 +4,4 @@ Building for a competition from Ward Academy
 
 
 
-# Couldnt add the Data file since Github said its too big ://
+# Adding data file as a zip since its too big
